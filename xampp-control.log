@@ -1,0 +1,242 @@
+23:49:07  [main] 	Initializing Control Panel
+23:49:07  [main] 	Windows Version:  Enterprise  64-bit
+23:49:07  [main] 	XAMPP Version: 8.2.12
+23:49:07  [main] 	Control Panel Version: 3.3.0  [ Compiled: Apr 6th 2021 ]
+23:49:07  [main] 	Running with Administrator rights - good!
+23:49:07  [main] 	XAMPP Installation Directory: "d:\xampp\"
+23:49:07  [main] 	Checking for prerequisites
+23:49:07  [main] 	All prerequisites found
+23:49:07  [main] 	Initializing Modules
+23:49:07  [main] 	Starting Check-Timer
+23:49:07  [main] 	Control Panel Ready
+23:49:14  [Apache] 	Attempting to start Apache app...
+23:49:14  [Apache] 	Status change detected: running
+23:49:15  [mysql] 	Attempting to start MySQL app...
+23:49:15  [mysql] 	Status change detected: running
+23:49:49  [mysql] 	Attempting to stop MySQL app...
+23:49:49  [mysql] 	Status change detected: stopped
+23:49:49  [Apache] 	Attempting to stop Apache (PID: 30248)
+23:49:49  [Apache] 	Attempting to stop Apache (PID: 12096)
+23:49:49  [Apache] 	Status change detected: stopped
+23:50:40  [Apache] 	Attempting to start Apache app...
+23:50:40  [Apache] 	Status change detected: running
+23:50:41  [mysql] 	Attempting to start MySQL app...
+23:50:41  [mysql] 	Status change detected: running
+23:55:46  [Apache] 	Attempting to stop Apache (PID: 21932)
+23:55:46  [Apache] 	Attempting to stop Apache (PID: 19180)
+23:55:46  [Apache] 	Status change detected: stopped
+23:55:47  [mysql] 	Attempting to stop MySQL app...
+23:55:47  [mysql] 	Status change detected: stopped
+23:55:47  [Apache] 	Attempting to start Apache app...
+23:55:48  [Apache] 	Status change detected: running
+23:55:49  [mysql] 	Attempting to start MySQL app...
+23:55:49  [mysql] 	Status change detected: running
+23:56:49  [Apache] 	Attempting to stop Apache (PID: 20568)
+23:56:49  [Apache] 	Attempting to stop Apache (PID: 944)
+23:56:49  [Apache] 	Status change detected: stopped
+23:56:49  [mysql] 	Attempting to stop MySQL app...
+23:56:49  [mysql] 	Status change detected: stopped
+23:56:50  [Apache] 	Attempting to start Apache app...
+23:56:51  [Apache] 	Status change detected: running
+23:56:51  [mysql] 	Attempting to start MySQL app...
+23:56:51  [mysql] 	Status change detected: running
+23:58:47  [Apache] 	Attempting to stop Apache (PID: 7592)
+23:58:47  [Apache] 	Attempting to stop Apache (PID: 22080)
+23:58:47  [Apache] 	Status change detected: stopped
+23:58:47  [mysql] 	Attempting to stop MySQL app...
+23:58:47  [mysql] 	Status change detected: stopped
+00:02:07  [Apache] 	Attempting to start Apache app...
+00:02:09  [Apache] 	Status change detected: running
+00:02:14  [mysql] 	Attempting to start MySQL app...
+00:02:14  [mysql] 	Status change detected: running
+00:04:43  [Apache] 	Attempting to stop Apache (PID: 8240)
+00:04:43  [Apache] 	Attempting to stop Apache (PID: 6532)
+00:04:43  [Apache] 	Status change detected: stopped
+00:04:43  [mysql] 	Attempting to stop MySQL app...
+00:04:44  [mysql] 	Status change detected: stopped
+00:04:45  [Apache] 	Attempting to start Apache app...
+00:04:45  [Apache] 	Status change detected: running
+00:04:46  [mysql] 	Attempting to start MySQL app...
+00:04:46  [mysql] 	Status change detected: running
+00:08:49  [Apache] 	Attempting to stop Apache (PID: 2292)
+00:08:49  [Apache] 	Attempting to stop Apache (PID: 26088)
+00:08:49  [Apache] 	Status change detected: stopped
+00:08:50  [mysql] 	Attempting to stop MySQL app...
+00:08:50  [mysql] 	Status change detected: stopped
+00:08:55  [main] 	Deinitializing Modules
+00:08:55  [main] 	Deinitializing Control Panel
+
+23:37:17  [main] 	Initializing Control Panel
+23:37:17  [main] 	Windows Version:  Enterprise  64-bit
+23:37:17  [main] 	XAMPP Version: 8.2.12
+23:37:17  [main] 	Control Panel Version: 3.3.0  [ Compiled: Apr 6th 2021 ]
+23:37:17  [main] 	Running with Administrator rights - good!
+23:37:17  [main] 	XAMPP Installation Directory: "d:\xampp\"
+23:37:17  [main] 	Checking for prerequisites
+23:37:17  [main] 	All prerequisites found
+23:37:17  [main] 	Initializing Modules
+23:37:17  [main] 	Starting Check-Timer
+23:37:17  [main] 	Control Panel Ready
+23:37:29  [Apache] 	Attempting to start Apache app...
+23:37:30  [Apache] 	Status change detected: running
+23:37:30  [Apache] 	Status change detected: stopped
+23:37:30  [Apache] 	Error: Apache shutdown unexpectedly.
+23:37:30  [Apache] 	This may be due to a blocked port, missing dependencies, 
+23:37:30  [Apache] 	improper privileges, a crash, or a shutdown by another method.
+23:37:30  [Apache] 	Press the Logs button to view error logs and check
+23:37:30  [Apache] 	the Windows Event Viewer for more clues
+23:37:30  [Apache] 	If you need more help, copy and post this
+23:37:30  [Apache] 	entire log window on the forums
+23:37:34  [Apache] 	Attempting to start Apache app...
+23:37:34  [Apache] 	Status change detected: running
+23:37:35  [Apache] 	Status change detected: stopped
+23:37:35  [Apache] 	Error: Apache shutdown unexpectedly.
+23:37:35  [Apache] 	This may be due to a blocked port, missing dependencies, 
+23:37:35  [Apache] 	improper privileges, a crash, or a shutdown by another method.
+23:37:35  [Apache] 	Press the Logs button to view error logs and check
+23:37:35  [Apache] 	the Windows Event Viewer for more clues
+23:37:35  [Apache] 	If you need more help, copy and post this
+23:37:35  [Apache] 	entire log window on the forums
+23:37:35  [mysql] 	Attempting to start MySQL app...
+23:37:36  [mysql] 	Status change detected: running
+23:37:50  [mysql] 	Attempting to stop MySQL app...
+23:37:50  [mysql] 	Status change detected: stopped
+23:38:33  [Apache] 	Attempting to start Apache app...
+23:38:33  [Apache] 	Status change detected: running
+23:38:34  [Apache] 	Status change detected: stopped
+23:38:34  [Apache] 	Error: Apache shutdown unexpectedly.
+23:38:34  [Apache] 	This may be due to a blocked port, missing dependencies, 
+23:38:34  [Apache] 	improper privileges, a crash, or a shutdown by another method.
+23:38:34  [Apache] 	Press the Logs button to view error logs and check
+23:38:34  [Apache] 	the Windows Event Viewer for more clues
+23:38:34  [Apache] 	If you need more help, copy and post this
+23:38:34  [Apache] 	entire log window on the forums
+23:38:38  [mysql] 	Attempting to start MySQL app...
+23:38:39  [mysql] 	Status change detected: running
+23:38:43  [mysql] 	Attempting to stop MySQL app...
+23:38:43  [mysql] 	Status change detected: stopped
+23:38:48  [Apache] 	Attempting to start Apache app...
+23:38:49  [mysql] 	Attempting to start MySQL app...
+23:38:49  [Apache] 	Status change detected: running
+23:38:49  [mysql] 	Status change detected: running
+23:38:49  [filezilla] 	Attempting to start FileZilla app...
+23:38:49  [Apache] 	Status change detected: stopped
+23:38:49  [Apache] 	Error: Apache shutdown unexpectedly.
+23:38:49  [Apache] 	This may be due to a blocked port, missing dependencies, 
+23:38:49  [Apache] 	improper privileges, a crash, or a shutdown by another method.
+23:38:49  [Apache] 	Press the Logs button to view error logs and check
+23:38:49  [Apache] 	the Windows Event Viewer for more clues
+23:38:49  [Apache] 	If you need more help, copy and post this
+23:38:49  [Apache] 	entire log window on the forums
+23:38:49  [filezilla] 	Status change detected: running
+23:38:52  [mercury] 	Attempting to start Mercury app...
+23:38:52  [mercury] 	Status change detected: running
+23:38:56  [mercury] 	Attempting to stop Mercury (PID: 32980)
+23:38:57  [mercury] 	Status change detected: stopped
+23:38:59  [filezilla] 	Attempting to stop FileZilla app...
+23:38:59  [filezilla] 	Status change detected: stopped
+23:38:59  [Apache] 	Attempting to start Apache app...
+23:39:00  [Apache] 	Status change detected: running
+23:39:00  [Apache] 	Status change detected: stopped
+23:39:00  [Apache] 	Error: Apache shutdown unexpectedly.
+23:39:00  [Apache] 	This may be due to a blocked port, missing dependencies, 
+23:39:00  [Apache] 	improper privileges, a crash, or a shutdown by another method.
+23:39:00  [Apache] 	Press the Logs button to view error logs and check
+23:39:00  [Apache] 	the Windows Event Viewer for more clues
+23:39:00  [Apache] 	If you need more help, copy and post this
+23:39:00  [Apache] 	entire log window on the forums
+23:39:18  [mysql] 	Attempting to stop MySQL app...
+23:39:18  [mysql] 	Status change detected: stopped
+23:39:40  [Apache] 	Attempting to start Apache app...
+23:39:40  [Apache] 	Status change detected: running
+23:39:46  [mysql] 	Attempting to start MySQL app...
+23:39:47  [mysql] 	Status change detected: running
+23:40:09  [Apache] 	Attempting to stop Apache (PID: 26404)
+23:40:09  [Apache] 	Attempting to stop Apache (PID: 22020)
+23:40:09  [Apache] 	Status change detected: stopped
+23:40:10  [mysql] 	Attempting to stop MySQL app...
+23:40:10  [mysql] 	Status change detected: stopped
+23:40:46  [Apache] 	Attempting to start Apache app...
+23:40:46  [Apache] 	Status change detected: running
+23:40:46  [mysql] 	Attempting to start MySQL app...
+23:40:46  [mysql] 	Status change detected: running
+23:40:50  [filezilla] 	Attempting to start FileZilla app...
+23:40:50  [filezilla] 	Status change detected: running
+23:40:51  [mercury] 	Attempting to start Mercury app...
+23:40:51  [mercury] 	Status change detected: running
+23:40:53  [Tomcat] 	Attempting to start Tomcat app...
+23:40:53  [Tomcat] 	Tomcat Started/Stopped with errors, return code: 1
+23:40:53  [Tomcat] 	Make sure you have Java JDK or JRE installed and the required ports are free
+23:40:53  [Tomcat] 	Check the "/xampp/tomcat/logs" folder for more information
+23:40:56  [Tomcat] 	Attempting to start Tomcat app...
+23:40:57  [Tomcat] 	Tomcat Started/Stopped with errors, return code: 1
+23:40:57  [Tomcat] 	Make sure you have Java JDK or JRE installed and the required ports are free
+23:40:57  [Tomcat] 	Check the "/xampp/tomcat/logs" folder for more information
+23:46:27  [mercury] 	Attempting to stop Mercury (PID: 30504)
+23:46:27  [mercury] 	Status change detected: stopped
+23:46:27  [filezilla] 	Attempting to stop FileZilla app...
+23:46:27  [filezilla] 	Status change detected: stopped
+23:46:30  [Apache] 	Attempting to stop Apache (PID: 32964)
+23:46:30  [Apache] 	Attempting to stop Apache (PID: 12652)
+23:46:30  [Apache] 	Status change detected: stopped
+23:46:30  [mysql] 	Attempting to stop MySQL app...
+23:46:30  [mysql] 	Status change detected: stopped
+23:47:10  [Apache] 	Attempting to start Apache app...
+23:47:10  [Apache] 	Status change detected: running
+23:47:11  [mysql] 	Attempting to start MySQL app...
+23:47:11  [mysql] 	Status change detected: running
+23:48:34  [Apache] 	Attempting to stop Apache (PID: 19508)
+23:48:34  [Apache] 	Attempting to stop Apache (PID: 14388)
+23:48:34  [mysql] 	Attempting to stop MySQL app...
+23:48:35  [Apache] 	Status change detected: stopped
+23:48:35  [mysql] 	Status change detected: stopped
+23:49:14  [Apache] 	Status change detected: running
+23:49:15  [mysql] 	Status change detected: running
+23:49:49  [Apache] 	Status change detected: stopped
+23:49:49  [mysql] 	Status change detected: stopped
+23:50:40  [Apache] 	Status change detected: running
+23:50:42  [mysql] 	Status change detected: running
+23:55:47  [Apache] 	Status change detected: stopped
+23:55:47  [mysql] 	Status change detected: stopped
+23:55:48  [Apache] 	Status change detected: running
+23:55:50  [mysql] 	Status change detected: running
+23:56:49  [Apache] 	Status change detected: stopped
+23:56:50  [mysql] 	Status change detected: stopped
+23:56:50  [Apache] 	Status change detected: running
+23:56:51  [mysql] 	Status change detected: running
+23:58:47  [Apache] 	Status change detected: stopped
+23:58:47  [mysql] 	Status change detected: stopped
+00:02:07  [Apache] 	Status change detected: running
+00:02:14  [mysql] 	Status change detected: running
+00:04:43  [Apache] 	Status change detected: stopped
+00:04:44  [mysql] 	Status change detected: stopped
+00:04:45  [Apache] 	Status change detected: running
+00:04:46  [mysql] 	Status change detected: running
+00:08:49  [Apache] 	Status change detected: stopped
+00:08:50  [mysql] 	Status change detected: stopped
+00:08:56  [main] 	Deinitializing Modules
+00:08:56  [main] 	Deinitializing Control Panel
+
+10:23:09  [main] 	Initializing Control Panel
+10:23:09  [main] 	Windows Version:  Enterprise  64-bit
+10:23:09  [main] 	XAMPP Version: 8.2.12
+10:23:09  [main] 	Control Panel Version: 3.3.0  [ Compiled: Apr 6th 2021 ]
+10:23:09  [main] 	Running with Administrator rights - good!
+10:23:09  [main] 	XAMPP Installation Directory: "d:\xampp\"
+10:23:09  [main] 	Checking for prerequisites
+10:23:09  [main] 	All prerequisites found
+10:23:09  [main] 	Initializing Modules
+10:23:09  [main] 	Starting Check-Timer
+10:23:09  [main] 	Control Panel Ready
+10:23:14  [Apache] 	Attempting to start Apache app...
+10:23:14  [Apache] 	Status change detected: running
+10:23:16  [mysql] 	Attempting to start MySQL app...
+10:23:17  [mysql] 	Status change detected: running
+10:43:35  [mysql] 	Attempting to stop MySQL app...
+10:43:35  [mysql] 	Status change detected: stopped
+10:43:36  [Apache] 	Attempting to stop Apache (PID: 16344)
+10:43:36  [Apache] 	Attempting to stop Apache (PID: 10896)
+10:43:36  [Apache] 	Status change detected: stopped
+10:44:34  [main] 	Deinitializing Modules
+10:44:34  [main] 	Deinitializing Control Panel
+
