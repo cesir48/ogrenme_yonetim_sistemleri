@@ -1,0 +1,1 @@
+a:4:{s:16:"glossarycategory";s:39:"{$a->sözlük}: Kategori {$a->category}";s:15:"glossaryconcept";s:28:"{$a->sözlük}: {$a->kavram}";s:10:"filtername";s:26:"Sözlük otomatik-bağlama";s:16:"privacy:metadata";s:75:"Sözlük otomatik bağlantı eklentisi herhangi bir kişisel veri saklamaz.";}

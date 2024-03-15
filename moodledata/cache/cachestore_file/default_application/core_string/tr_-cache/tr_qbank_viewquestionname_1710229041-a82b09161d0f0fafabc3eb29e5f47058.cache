@@ -1,0 +1,1 @@
+a:4:{s:10:"pluginname";s:25:"Soru adını görüntüle";s:16:"privacy:metadata";s:86:"Soru adını görüntüle soru bankası eklentisi herhangi bir kişisel veri saklamaz.";s:23:"edit_question_name_hint";s:21:"soru adını düzenle";s:24:"edit_question_name_label";s:28:"{$a->name} için yeni değer";}

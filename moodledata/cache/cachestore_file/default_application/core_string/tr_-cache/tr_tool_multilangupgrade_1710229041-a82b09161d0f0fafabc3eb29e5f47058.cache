@@ -1,0 +1,3 @@
+a:3:{s:20:"multilangupgradeinfo";s:300:"p>Çok dilli filtre sözdizimi 1.8'de değiştirildi ve böylece <lang>  etiketi artık desteklenmiyor.</p>
+<p>Örnek: <span lang="en" class="multilang">Merhaba!</span><span lang="es" class="multilang">Hola!</span>< /p>
+<p>Mevcut tüm metinlerdeki sözdizimini şimdi yükseltmek istiyor musunuz?</p>";s:10:"pluginname";s:21:"Çoklu dil yükseltme";s:16:"privacy:metadata";s:68:"Çokdilli yükseltme eklentisi herhangi bir kişisel veri depolamaz.";}

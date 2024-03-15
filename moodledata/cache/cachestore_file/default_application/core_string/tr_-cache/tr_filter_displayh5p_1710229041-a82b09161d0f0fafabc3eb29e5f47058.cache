@@ -1,0 +1,7 @@
+a:4:{s:18:"allowedsourceslist";s:23:"İzin verilen kaynaklar";s:22:"allowedsourceslistdesc";s:411:"Kullanıcıların H5P içeriği katıştırabilecekleri URL'lerin listesi.  Hiçbiri belirtilmezse, tüm URL'ler bağlantı olarak kalır ve katıştırılmış H5P içeriği olarak görüntülenmez.
+
+"[id]", harici kaynaktaki H5P içerik kimliği için bir yer tutucudur.
+Örneğin:
+
+- H5P.com: https://[xxxxxx].h5p.com/content/[id]
+- Wordpress: http://myserver/wp-admin/admin-ajax.php?action=h5p_embed&id=[id]";s:10:"filtername";s:14:"H5P'yi göster";s:16:"privacy:metadata";s:55:"H5P ekran filtresi herhangi bir kişisel veri saklamaz.";}

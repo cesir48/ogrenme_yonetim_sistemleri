@@ -1,0 +1,3 @@
+a:5:{s:13:"fallbackaudio";s:17:"Ses bağlantısı";s:13:"fallbackvideo";s:19:"Video bağlantısı";s:10:"filtername";s:22:"Multimedia eklentileri";s:11:"linktomedia";s:348:"Multimedya eklentileri filtresi, metinde multimedya kaynağını gösteren bir bağlantı bulur ve bağlantıyı, kaynağı oynatabilen uygun bir multimedya oynatıcı koduyla değiştirir. Ayrıca, &lt;video&gt; ve &lt;audio&gt; etiketlerini seçilen video ve ses oynatıcılar ile değiştirir.
+
+<a href="{$a}">Medya oynatıcılarını yönet</a>";s:16:"privacy:metadata";s:71:"Multimedya eklentileri eklentisi herhangi bir kişisel veriyi saklamaz.";}

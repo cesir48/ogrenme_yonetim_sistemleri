@@ -1,0 +1,51 @@
+a:51:{s:13:"accountexists";s:218:"Bu sitede bu kullanıcı adına sahip bir kullanıcı zaten var. Bu sizin hesabınızsa, kullanıcı adınızı ve şifrenizi girerek giriş yapın ve tercihler sayfanız üzerinden bağlantılı giriş olarak ekleyin.";s:22:"auth_oauth2description";s:49:"OAuth 2 standartlarına dayalı kimlik doğrulama";s:19:"auth_oauth2settings";s:36:"OAuth 2 kimlik doğrulama ayarları.";s:19:"confirmaccountemail";s:614:"Merhaba {$a->fullname},
+
+'{$a->sitename}' adresinde yeni bir hesap istendi
+e-posta adresinizi kullanarak.
+
+Yeni hesabınızı onaylamak için lütfen bu web adresine gidin:
+
+{$a->link}
+
+Çoğu posta programında, bu mavi bir bağlantı olarak görünmelidir
+sadece tıklayabilirsiniz. Bu işe yaramazsa,
+sonra adresi kesip adrese yapıştırın
+web tarayıcısı pencerenizin üstündeki satır.
+
+Yardıma ihtiyacınız varsa, lütfen site yöneticisine başvurun,
+{$a->admin}
+
+Bunu siz yapmadıysanız, başka biri hesabınızı tehlikeye atmaya çalışıyor olabilir.
+Lütfen hemen site yöneticisine başvurun.";s:26:"confirmaccountemailsubject";s:18:"{$a}: hesap onayı";s:19:"confirmationinvalid";s:145:"Onay bağlantısı geçersiz veya süresi dolmuş. Yeni bir onay e-postası oluşturmak için lütfen oturum açma işlemini yeniden başlatın.
+";s:19:"confirmationpending";s:33:"Bu hesap e-posta onayı bekliyor.";s:23:"confirmlinkedloginemail";s:717:"Merhaba {$a->fullname},
+
+{$a->issuername} giriş bilgilerinin bağlanması için istekte bulunuldu
+{$a->linkedemail} '{$a->siteame}' adresindeki hesabınıza
+e-posta adresinizi kullanarak.
+
+Bu isteği onaylamak ve bu girişleri bağlamak için lütfen şu web adresine gidin:
+
+{$a->link}
+
+Çoğu posta programında, bu mavi bir bağlantı olarak görünmelidir
+sadece tıklayabilirsiniz. Bu işe yaramazsa,
+sonra adresi kesip adrese yapıştırın
+web tarayıcısı pencerenizin üstündeki satır.
+
+Yardıma ihtiyacınız varsa, lütfen site yöneticisine başvurun,
+{$a->admin}
+
+Bunu siz yapmadıysanız, başka biri hesabınızı tehlikeye atmaya çalışıyor olabilir.
+Lütfen hemen site yöneticisine başvurun.";s:30:"confirmlinkedloginemailsubject";s:33:"{$a}: bağlantılı giriş onayı";s:21:"createaccountswarning";s:203:"Bu kimlik doğrulama eklentisi, kullanıcıların sitenizde hesaplar oluşturmasına olanak tanır. Bu eklentiyi kullanıyorsanız "authpreventaccountcreation" ayarını etkinleştirmek isteyebilirsiniz.";s:20:"createnewlinkedlogin";s:32:"Yeni bir hesap bağlayın ({$a})";s:16:"emailconfirmlink";s:27:"Hesaplarınızı bağlayın";s:20:"emailconfirmlinksent";s:396:"<p>Bu e-posta adresiyle mevcut bir hesap bulundu, ancak henüz bağlanmadı.</p>
+   <p>Giriş yapabilmeniz için önce hesapların bağlanması gerekir.</p>
+   <p><b>{$a}</b> adresindeki adresinize bir e-posta gönderilmiş olmalıdır.</p>
+   <p>Hesaplarınızı bağlamanız için kolay talimatlar içerir.</p>
+   <p>Herhangi bir zorlukla karşılaşırsanız, site yöneticisine başvurun.</p>";s:23:"emailpasswordchangeinfo";s:339:"Merhaba {$a->firstname},
+
+Birisi (muhtemelen siz) '{$a->sitename}' üzerindeki hesabınız için yeni bir şifre talep etti.
+
+Ancak hesabınızı başka bir sitede oturum açmak için kullandığınız için şifreniz sıfırlanamaz.
+
+Lütfen giriş sayfasındaki bağlantıyı kullanarak daha önce olduğu gibi giriş yapın.
+{$a->admin}";s:30:"emailpasswordchangeinfosubject";s:30:"{$a}: Şifre değişim bilgisi";s:4:"info";s:12:"Harici hesap";s:6:"issuer";s:15:"OAuth 2 hizmeti";s:13:"issuernologin";s:43:"Bu veren, giriş yapmak için kullanılamaz";s:3:"key";s:7:"Anahtar";s:12:"linkedlogins";s:23:"Bağlantılı girişler";s:16:"linkedloginshelp";s:40:"Bağlantılı girişlerle ilgili yardım";s:8:"loggedin";s:55:"Kullanıcı, sağlayıcı ile başarıyla doğrulandı.";s:25:"loginerror_userincomplete";s:144:"Döndürülen kullanıcı bilgileri bir kullanıcı adı ve e-posta adresi içermiyordu. OAuth 2 hizmeti yanlış yapılandırılmış olabilir.";s:21:"loginerror_nouserinfo";s:90:"Kullanıcı bilgisi iade edilmedi. OAuth 2 hizmeti yanlış yapılandırılmış olabilir.";s:24:"loginerror_invaliddomain";s:43:"Bu sitede e-posta adresine izin verilmiyor.";s:31:"loginerror_authenticationfailed";s:44:"Kimlik doğrulama işlemi başarısız oldu.";s:31:"loginerror_cannotcreateaccounts";s:42:"E-posta adresinizle bir hesap bulunamadı.";s:16:"noconfiguredidps";s:48:"Yapılandırılmış OAuth2 sağlayıcısı yok.";s:18:"noissuersavailable";s:99:"Yapılandırılmış OAuth2 hizmetlerinden hiçbiri, giriş hesaplarını bağlamanıza izin vermez";s:16:"notloggedindebug";s:53:"Oturum açma girişimi başarısız oldu. Neden: {$a}";s:18:"notwhileloggedinas";s:92:"Başka bir kullanıcı olarak oturum açıldığında bağlantılı girişler yönetilemez.
+";s:25:"oauth2:managelinkedlogins";s:55:"Kendi bağlantılı oturum açma hesaplarını yönetin";s:10:"notenabled";s:63:"Maalesef OAuth 2 kimlik doğrulama eklentisi etkinleştirilmedi";s:17:"plugindescription";s:285:"Bu kimlik doğrulama eklentisi, oturum açma sayfasında yapılandırılmış kimlik sağlayıcılarının bir listesini görüntüler. Bir kimlik sağlayıcı seçmek, kullanıcıların bir OAuth 2 sağlayıcısından aldıkları kimlik bilgileriyle oturum açmalarına olanak tanır.";s:10:"pluginname";s:7:"OAuth 2";s:13:"alreadylinked";s:53:"Bu harici hesap, bu sitedeki bir hesaba zaten bağlı";s:28:"privacy:metadata:auth_oauth2";s:28:"OAuth 2 kimlik doğrulaması";s:42:"privacy:metadata:auth_oauth2:authsubsystem";s:56:"Bu eklenti, kimlik doğrulama alt sistemine bağlıdır.";s:41:"privacy:metadata:auth_oauth2:confirmtoken";s:12:"Onay jetonu.";s:48:"privacy:metadata:auth_oauth2:confirmtokenexpires";s:43:"Onay jetonunun sona erdiği zaman damgası.";s:34:"privacy:metadata:auth_oauth2:email";s:36:"Bu hesapla eşleşen harici e-posta.";s:37:"privacy:metadata:auth_oauth2:issuerid";s:58:"Bu OAuth 2 girişi için OAuth 2 veren kuruluşun kimliği";s:45:"privacy:metadata:auth_oauth2:tableexplanation";s:64:"Bir kullanıcının Moodle hesabına bağlı OAuth 2 hesapları.";s:40:"privacy:metadata:auth_oauth2:timecreated";s:72:"Kullanıcı hesabının OAuth 2 girişine bağlandığı zaman damgası.";s:41:"privacy:metadata:auth_oauth2:timemodified";s:44:"Bu kaydın değiştirildiği zaman damgası.";s:35:"privacy:metadata:auth_oauth2:userid";s:68:"OAuth 2 girişinin bağlı olduğu kullanıcı hesabının kimliği.";s:41:"privacy:metadata:auth_oauth2:usermodified";s:49:"Bu hesabı değiştiren kullanıcının kimliği.";s:37:"privacy:metadata:auth_oauth2:username";s:45:"Bu hesapla eşleşen harici kullanıcı adı.";s:12:"testidplogin";s:25:"Girişi şununla test et:";s:8:"userinfo";s:37:"Sağlayıcıdan kullanıcı verileri:";s:5:"value";s:6:"Değer";}

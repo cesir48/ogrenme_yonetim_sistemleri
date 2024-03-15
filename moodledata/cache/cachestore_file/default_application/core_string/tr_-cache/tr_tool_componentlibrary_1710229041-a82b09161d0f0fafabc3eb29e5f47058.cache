@@ -1,0 +1,9 @@
+a:13:{s:6:"copied";s:12:"Kopyalandı!";s:4:"copy";s:7:"Kopyala";s:15:"copytoclipboard";s:14:"Panoya kopyala";s:9:"installer";s:747:"h3>Bileşen kütüphanesi kurulumu</h3>
+    <p>Bileşen kitaplığının içeriğini görebilmeniz için Moodle kurulumunuza kabuk erişiminizin olması ve /admin/tool/componentlibrary klasörüne yazabilmeniz ve Moodle sunucunuzda npm kurulu olması gerekir.</p>
+<p>Bu şartları karşılıyorsanız, Moodle kök klasörünüze gidebilir ve aşağıdakileri çalıştırabilirsiniz:</p>
+    <pre>$ npm install</pre>
+    <pre>$ npm install grunt</pre>
+    <p>Bu, bileşen kütüphanesi dokümanlarını oluşturmak için gerekli tüm paketleri getirecektir.</p>
+    <p>Yüklendikten sonra şunları çalıştırabilirsiniz:</p>
+<pre>$ grunt bileşen kütüphanesi</pre>
+    <p>Daha fazla bilgi için bu eklentideki README.md dosyasına bakın.</p>";s:10:"pluginname";s:30:"Arayüz Bileşen kütüphanesi";s:16:"privacy:metadata";s:68:"Bileşen kitaplığı eklentisi herhangi bir kişisel veri saklamaz.";s:8:"runjsdoc";s:140:"JavaScript belgeleri, bileşen kitaplığında ayrı olarak oluşturulur.  Oluşturmak için lütfen "grunt jsdoc" komutunu çalıştırın.";s:8:"showboth";s:23:"Her ikisiyle de göster";s:11:"showdefault";s:21:"Varsayılanı göster";s:8:"showhelp";s:26:"Yardımla birlikte göster";s:9:"showmixed";s:18:"Karışık göster";s:12:"showrequired";s:22:"Gerekli olanla göster";s:14:"toggleviewinfo";s:46:"Bu form örneğinin görünümünü değiştir";}
