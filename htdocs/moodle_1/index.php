@@ -66,7 +66,7 @@ if ($hassiteconfig && moodle_needs_upgrading()) {
 }
 
 // If site registration needs updating, redirect.
-\core\hub\registration::registration_reminder('/index.php');
+\core\hub\registration::registration_reminder('/install.php');
 
 if (get_home_page() != HOMEPAGE_SITE) {
     // Redirect logged-in users to My Moodle overview if required.
